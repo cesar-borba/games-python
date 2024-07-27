@@ -1,0 +1,25 @@
+Abarth
+Aston Martin
+Audi
+BMW
+Chevrolet
+Citroen
+Ferrari
+Fiat
+Ford
+Honda
+Hyundai
+Jac
+Jaguar
+Jeep
+Kia
+Koenigsegg
+Lamborghini
+Maserati
+McLaren
+Porsche
+Renault
+Subaru
+Toyota
+Volkswagen
+Volvo
